@@ -4,7 +4,7 @@ I specialize in Data Science & Machine Learning. I’m passionate about building
 
 
 - 🔭 I’m currently a Data Science Masters Student (MIDS 2023) at Duke! <img width=40 src="https://user-images.githubusercontent.com/89488845/147893156-29b1d4e6-3753-466d-8582-f5fabfd6c48c.png">
-- 👯 Ex - Behavior Researcher @ Morningstar, Data Science Intern @ Humu, and Strategy Consulting Inteern @ Deloitte
+- 👯 Ex - Behavior Researcher @ Morningstar, Data Science Intern @ Humu, and Strategy Consulting Intern @ Deloitte
 - 🧰 Currently looking to leverage skills and enthusiasm in a dynamic, data-driven environment!
 
 Check out my:
